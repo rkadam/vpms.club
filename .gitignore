@@ -1,3 +1,9 @@
 .env
 .code-workspace
 *.csv
+.DS_Store
+.ipynb_checkpoints/
+.python-version
+.vscode/
+vpms.code-workspace
+vpms-clubs.code-workspace
